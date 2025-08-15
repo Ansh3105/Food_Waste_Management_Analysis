@@ -87,14 +87,15 @@ Identify high-activity receivers for targeted outreach.
 
 🛠️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/yourusername/food-wastage-management.git
-cd food-wastage-management
+   git clone https://github.com/Ansh3105/Food_Waste_Management_Analysis.git
+cd Food_Waste_Management_Analysis
 
-2. Install Dependencies
+
+3. Install Dependencies
 pip install -r requirements.txt
 
 
-3. requirements.txt
+4. requirements.txt
 
 pandas==2.3.1
 pyodbc==5.2.0
