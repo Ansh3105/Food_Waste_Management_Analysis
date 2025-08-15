@@ -1,4 +1,7 @@
 🍽️ Local Food Wastage Management System
+
+**🔗 Live Demo:** [Click here to open the app](https://wasterecycle.streamlit.app)
+
 Executive Summary
 
 The Local Food Wastage Management System is a data-driven platform designed to reduce food waste and improve food accessibility by connecting surplus food providers with individuals and organizations in need. Built with Python, SQL, and Streamlit, this application enables real-time food listing, claim tracking, CRUD operations, and insightful analytics.
