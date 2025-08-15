@@ -217,6 +217,33 @@ Receivers by total quantity of food claimed
 Monthly total claims
 
 
+📓 About the Jupyter Notebook (food__waste_management.ipynb)
+
+The food__waste_management.ipynb file contains the data exploration, cleaning, and preprocessing steps used in building the Local Food Wastage Management System.
+
+Key Components Inside the Notebook
+
+Dataset Loading & Inspection – Reads raw CSV datasets (claims_data.csv, food_listings_data.csv, providers_data.csv, receivers_data.csv).
+
+Exploratory Data Analysis (EDA) – Identifies data distributions, missing values, duplicates, and key statistics.
+
+Data Cleaning –
+
+Handling missing values
+
+Removing duplicates
+
+Standardizing text formats (e.g., city names, food types)
+
+Converting date/time columns to correct formats
+
+Feature Engineering – Adds derived fields for analysis (e.g., claim percentages, food expiry flags).
+
+Export of Cleaned Data – Saves processed datasets (new_claims_data.csv, new_food_listing_data.csv, new_providers_data.csv, new_receivers_data.csv) into the Cleaned(EDA)_Dataset_Files folder for use in the Streamlit App.
+
+Purpose
+This notebook serves as the data preparation pipeline for the project, ensuring that all subsequent analytics, SQL queries, and visualizations work on clean and consistent data.
+
 
 💼 Business Impact
 
