@@ -1,6 +1,9 @@
 🍽️ Local Food Wastage Management System
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wasterecycle.streamlit.app)
+
 **🔗 Live Demo:** [Click here to open the app](https://wasterecycle.streamlit.app)
+
 
 Executive Summary
 
