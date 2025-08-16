@@ -217,7 +217,7 @@ Receivers by total quantity of food claimed
 Monthly total claims
 
 
-📓 About the Jupyter Notebook (food__waste_management.ipynb)
+📓 About the Jupyter Notebook (food__waste_management(1).ipynb)
 
 The food__waste_management.ipynb file contains the data exploration, cleaning, and preprocessing steps used in building the Local Food Wastage Management System.
 
